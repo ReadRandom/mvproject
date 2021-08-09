@@ -1,2 +1,2 @@
 # mvproject
-an excise in cutting scope
+an exercise in cutting scope
